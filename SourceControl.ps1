@@ -1,1 +1,1 @@
-white-output "this is file from github"
+write-output "this is file from github"
